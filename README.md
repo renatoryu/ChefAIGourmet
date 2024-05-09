@@ -27,6 +27,3 @@ Para começar a usar o ChefAI Gourmet, acesse o projeto no Google Colab:
 - **Google Generative AI**: Utilizado para gerar receitas baseadas em ingredientes fornecidos.
 - **ipywidgets**: Para criar uma interface interativa no Jupyter Notebook.
 
-## Autor
-
-Renato Caetité Cruz
