@@ -1,6 +1,6 @@
 # ChefAI Gourmet
 
-O ChefAI Gourmet é uma plataforma interativa que utiliza inteligência artificial para ajudar você a transformar ingredientes do dia a dia em receitas deliciosas e fáceis de preparar. Basta inserir os ingredientes que você tem em mãos, e nossa IA, baseada em tecnologias avançadas, sugere pratos criativos e saborosos em instantes. Perfeito para qualquer nível de habilidade culinária, o ChefAI Gourmet é o seu assistente de cozinha ideal, tornando cada refeição uma aventura gastronômica.
+O ChefAI Gourmet é uma plataforma interativa que utiliza inteligência artificial para ajudar você a transformar ingredientes do dia a dia em receitas deliciosas e fáceis de preparar. Basta inserir os ingredientes que você tem em mãos, e a IA, baseada nas tecnologias avançadas do Google, sugere pratos criativos e saborosos em instantes. Perfeito para qualquer nível de habilidade culinária, o ChefAI Gourmet é o seu assistente de cozinha ideal, tornando cada refeição uma aventura gastronômica.
 
 ## Funcionalidades
 
@@ -24,6 +24,7 @@ Para começar a usar o ChefAI Gourmet, acesse o projeto no Google Colab:
 ## Tecnologias Utilizadas
 
 - **Google Colab**: Ambiente de desenvolvimento baseado em Jupyter Notebook que permite a execução de Python no navegador.
-- **Google Generative AI**: Utilizado para gerar receitas baseadas em ingredientes fornecidos.
+- **Python**: Linguagem de programação utilizada para criar toda a lógica e funcionamento do sistema no geral.
+- **Google Generative AI**: Inteligência artificial utilizada para gerar receitas baseado em ingredientes fornecidos.
 - **ipywidgets**: Para criar uma interface interativa no Jupyter Notebook.
 
