@@ -17,9 +17,10 @@ Para começar a usar o ChefAI Gourmet, acesse o projeto no Google Colab:
 ### Passos Iniciais
 
 1. **Abra o link**: Vá até o link acima e abra o notebook no Google Colab.
-2. **Execute o Notebook**: Siga as instruções no notebook para instalar as dependências necessárias e configurar o ambiente.
-3. **Insira Ingredientes**: Use a caixa de texto para digitar os ingredientes que você quer usar, separados por vírgulas.
-4. **Gere sua Receita**: Clique no botão 'Gerar Receita' para ver as sugestões de pratos que você pode preparar.
+2. **Configure a Secret Key**: No menu à esquerda, adicione a secret key da API do Google.
+3. **Execute o Notebook**: Siga as instruções no notebook para instalar as dependências necessárias e configurar o ambiente.
+4. **Insira Ingredientes**: Use a caixa de texto para digitar os ingredientes que você quer usar, separados por vírgulas.
+5. **Gere sua Receita**: Clique no botão 'Gerar Receita' para ver as sugestões de pratos que você pode preparar.
 
 ## Tecnologias Utilizadas
 
